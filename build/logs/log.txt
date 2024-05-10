@@ -2,3 +2,63 @@
 2024-05-10 13:36:57 [thread 127794] info    -- /home/angga/Documents/LEN/c-logger/src/app.cpp:51 - Example Info
 2024-05-10 13:36:57 [thread 127794] debug   -- /home/angga/Documents/LEN/c-logger/src/app.cpp:52 - Example Debug
 2024-05-10 13:36:57 [thread 127794] warning -- /home/angga/Documents/LEN/c-logger/src/app.cpp:53 - Example Warning
+2024-05-10 13:38:20 [thread 128709] error   -- /home/angga/Documents/LEN/c-logger/src/services/example.cpp:11 - vector::_M_range_check: __n (which is 5) >= this->size() (which is 3)
+2024-05-10 13:38:20 [thread 128709] info    -- /home/angga/Documents/LEN/c-logger/src/app.cpp:51 - Example Info
+2024-05-10 13:38:20 [thread 128709] debug   -- /home/angga/Documents/LEN/c-logger/src/app.cpp:52 - Example Debug
+2024-05-10 13:38:20 [thread 128709] warning -- /home/angga/Documents/LEN/c-logger/src/app.cpp:53 - Example Warning
+2024-05-10 13:38:20 [thread 128721] error   -- /home/angga/Documents/LEN/c-logger/src/services/example.cpp:11 - vector::_M_range_check: __n (which is 5) >= this->size() (which is 3)
+2024-05-10 13:38:20 [thread 128721] info    -- /home/angga/Documents/LEN/c-logger/src/app.cpp:51 - Example Info
+2024-05-10 13:38:20 [thread 128721] debug   -- /home/angga/Documents/LEN/c-logger/src/app.cpp:52 - Example Debug
+2024-05-10 13:38:20 [thread 128721] warning -- /home/angga/Documents/LEN/c-logger/src/app.cpp:53 - Example Warning
+2024-05-10 13:38:21 [thread 128725] error   -- /home/angga/Documents/LEN/c-logger/src/services/example.cpp:11 - vector::_M_range_check: __n (which is 5) >= this->size() (which is 3)
+2024-05-10 13:38:21 [thread 128725] info    -- /home/angga/Documents/LEN/c-logger/src/app.cpp:51 - Example Info
+2024-05-10 13:38:21 [thread 128725] debug   -- /home/angga/Documents/LEN/c-logger/src/app.cpp:52 - Example Debug
+2024-05-10 13:38:21 [thread 128725] warning -- /home/angga/Documents/LEN/c-logger/src/app.cpp:53 - Example Warning
+2024-05-10 13:38:21 [thread 128738] error   -- /home/angga/Documents/LEN/c-logger/src/services/example.cpp:11 - vector::_M_range_check: __n (which is 5) >= this->size() (which is 3)
+2024-05-10 13:38:21 [thread 128738] info    -- /home/angga/Documents/LEN/c-logger/src/app.cpp:51 - Example Info
+2024-05-10 13:38:21 [thread 128738] debug   -- /home/angga/Documents/LEN/c-logger/src/app.cpp:52 - Example Debug
+2024-05-10 13:38:21 [thread 128738] warning -- /home/angga/Documents/LEN/c-logger/src/app.cpp:53 - Example Warning
+2024-05-10 13:38:22 [thread 128742] error   -- /home/angga/Documents/LEN/c-logger/src/services/example.cpp:11 - vector::_M_range_check: __n (which is 5) >= this->size() (which is 3)
+2024-05-10 13:38:22 [thread 128742] info    -- /home/angga/Documents/LEN/c-logger/src/app.cpp:51 - Example Info
+2024-05-10 13:38:22 [thread 128742] debug   -- /home/angga/Documents/LEN/c-logger/src/app.cpp:52 - Example Debug
+2024-05-10 13:38:22 [thread 128742] warning -- /home/angga/Documents/LEN/c-logger/src/app.cpp:53 - Example Warning
+2024-05-10 13:38:22 [thread 128780] error   -- /home/angga/Documents/LEN/c-logger/src/services/example.cpp:11 - vector::_M_range_check: __n (which is 5) >= this->size() (which is 3)
+2024-05-10 13:38:22 [thread 128780] info    -- /home/angga/Documents/LEN/c-logger/src/app.cpp:51 - Example Info
+2024-05-10 13:38:22 [thread 128780] debug   -- /home/angga/Documents/LEN/c-logger/src/app.cpp:52 - Example Debug
+2024-05-10 13:38:22 [thread 128780] warning -- /home/angga/Documents/LEN/c-logger/src/app.cpp:53 - Example Warning
+2024-05-10 13:38:23 [thread 128785] error   -- /home/angga/Documents/LEN/c-logger/src/services/example.cpp:11 - vector::_M_range_check: __n (which is 5) >= this->size() (which is 3)
+2024-05-10 13:38:23 [thread 128785] info    -- /home/angga/Documents/LEN/c-logger/src/app.cpp:51 - Example Info
+2024-05-10 13:38:23 [thread 128785] debug   -- /home/angga/Documents/LEN/c-logger/src/app.cpp:52 - Example Debug
+2024-05-10 13:38:23 [thread 128785] warning -- /home/angga/Documents/LEN/c-logger/src/app.cpp:53 - Example Warning
+2024-05-10 13:38:23 [thread 128797] error   -- /home/angga/Documents/LEN/c-logger/src/services/example.cpp:11 - vector::_M_range_check: __n (which is 5) >= this->size() (which is 3)
+2024-05-10 13:38:23 [thread 128797] info    -- /home/angga/Documents/LEN/c-logger/src/app.cpp:51 - Example Info
+2024-05-10 13:38:23 [thread 128797] debug   -- /home/angga/Documents/LEN/c-logger/src/app.cpp:52 - Example Debug
+2024-05-10 13:38:23 [thread 128797] warning -- /home/angga/Documents/LEN/c-logger/src/app.cpp:53 - Example Warning
+2024-05-10 13:38:24 [thread 128801] error   -- /home/angga/Documents/LEN/c-logger/src/services/example.cpp:11 - vector::_M_range_check: __n (which is 5) >= this->size() (which is 3)
+2024-05-10 13:38:24 [thread 128801] info    -- /home/angga/Documents/LEN/c-logger/src/app.cpp:51 - Example Info
+2024-05-10 13:38:24 [thread 128801] debug   -- /home/angga/Documents/LEN/c-logger/src/app.cpp:52 - Example Debug
+2024-05-10 13:38:24 [thread 128801] warning -- /home/angga/Documents/LEN/c-logger/src/app.cpp:53 - Example Warning
+2024-05-10 13:38:24 [thread 128812] error   -- /home/angga/Documents/LEN/c-logger/src/services/example.cpp:11 - vector::_M_range_check: __n (which is 5) >= this->size() (which is 3)
+2024-05-10 13:38:24 [thread 128812] info    -- /home/angga/Documents/LEN/c-logger/src/app.cpp:51 - Example Info
+2024-05-10 13:38:24 [thread 128812] debug   -- /home/angga/Documents/LEN/c-logger/src/app.cpp:52 - Example Debug
+2024-05-10 13:38:24 [thread 128812] warning -- /home/angga/Documents/LEN/c-logger/src/app.cpp:53 - Example Warning
+2024-05-10 13:38:25 [thread 128842] error   -- /home/angga/Documents/LEN/c-logger/src/services/example.cpp:11 - vector::_M_range_check: __n (which is 5) >= this->size() (which is 3)
+2024-05-10 13:38:25 [thread 128842] info    -- /home/angga/Documents/LEN/c-logger/src/app.cpp:51 - Example Info
+2024-05-10 13:38:25 [thread 128842] debug   -- /home/angga/Documents/LEN/c-logger/src/app.cpp:52 - Example Debug
+2024-05-10 13:38:25 [thread 128842] warning -- /home/angga/Documents/LEN/c-logger/src/app.cpp:53 - Example Warning
+2024-05-10 13:38:26 [thread 128874] error   -- /home/angga/Documents/LEN/c-logger/src/services/example.cpp:11 - vector::_M_range_check: __n (which is 5) >= this->size() (which is 3)
+2024-05-10 13:38:26 [thread 128874] info    -- /home/angga/Documents/LEN/c-logger/src/app.cpp:51 - Example Info
+2024-05-10 13:38:26 [thread 128874] debug   -- /home/angga/Documents/LEN/c-logger/src/app.cpp:52 - Example Debug
+2024-05-10 13:38:26 [thread 128874] warning -- /home/angga/Documents/LEN/c-logger/src/app.cpp:53 - Example Warning
+2024-05-10 13:38:26 [thread 128887] error   -- /home/angga/Documents/LEN/c-logger/src/services/example.cpp:11 - vector::_M_range_check: __n (which is 5) >= this->size() (which is 3)
+2024-05-10 13:38:26 [thread 128887] info    -- /home/angga/Documents/LEN/c-logger/src/app.cpp:51 - Example Info
+2024-05-10 13:38:26 [thread 128887] debug   -- /home/angga/Documents/LEN/c-logger/src/app.cpp:52 - Example Debug
+2024-05-10 13:38:26 [thread 128887] warning -- /home/angga/Documents/LEN/c-logger/src/app.cpp:53 - Example Warning
+2024-05-10 13:43:41 [thread 131931] error   -- /home/angga/Documents/LEN/c-logger/src/services/example.cpp:11 - vector::_M_range_check: __n (which is 5) >= this->size() (which is 3)
+2024-05-10 13:43:41 [thread 131931] info    -- /home/angga/Documents/LEN/c-logger/src/app.cpp:51 - Example Info
+2024-05-10 13:43:41 [thread 131931] debug   -- /home/angga/Documents/LEN/c-logger/src/app.cpp:52 - Example Debug
+2024-05-10 13:43:41 [thread 131931] warning -- /home/angga/Documents/LEN/c-logger/src/app.cpp:53 - Example Warning
+2024-05-10 13:44:57 [thread 132852] error   -- /home/angga/Documents/LEN/c-logger/src/services/example.cpp:11 - vector::_M_range_check: __n (which is 5) >= this->size() (which is 3)
+2024-05-10 13:44:57 [thread 132852] info    -- /home/angga/Documents/LEN/c-logger/src/app.cpp:51 - Example Info
+2024-05-10 13:44:57 [thread 132852] debug   -- /home/angga/Documents/LEN/c-logger/src/app.cpp:52 - Example Debug
+2024-05-10 13:44:57 [thread 132852] warning -- /home/angga/Documents/LEN/c-logger/src/app.cpp:53 - Example Warning
