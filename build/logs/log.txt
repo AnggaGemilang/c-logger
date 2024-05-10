@@ -1,0 +1,4 @@
+2024-05-10 13:36:57 [thread 127794] error   -- /home/angga/Documents/LEN/c-logger/src/services/example.cpp:11 - vector::_M_range_check: __n (which is 5) >= this->size() (which is 3)
+2024-05-10 13:36:57 [thread 127794] info    -- /home/angga/Documents/LEN/c-logger/src/app.cpp:51 - Example Info
+2024-05-10 13:36:57 [thread 127794] debug   -- /home/angga/Documents/LEN/c-logger/src/app.cpp:52 - Example Debug
+2024-05-10 13:36:57 [thread 127794] warning -- /home/angga/Documents/LEN/c-logger/src/app.cpp:53 - Example Warning

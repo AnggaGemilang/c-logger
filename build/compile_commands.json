@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/home/angga/Documents/LEN/c-logger/build",
+  "command": "/usr/bin/g++  -I/opt/vcpkg/installed/x64-linux/include -g -std=gnu++11 -o CMakeFiles/shared-objects.dir/src/services/example.cpp.o -c /home/angga/Documents/LEN/c-logger/src/services/example.cpp",
+  "file": "/home/angga/Documents/LEN/c-logger/src/services/example.cpp"
+},
+{
+  "directory": "/home/angga/Documents/LEN/c-logger/build",
+  "command": "/usr/bin/g++  -I/opt/vcpkg/installed/x64-linux/include -g -std=gnu++11 -o CMakeFiles/shared-objects.dir/src/utils/logger.cpp.o -c /home/angga/Documents/LEN/c-logger/src/utils/logger.cpp",
+  "file": "/home/angga/Documents/LEN/c-logger/src/utils/logger.cpp"
+},
+{
+  "directory": "/home/angga/Documents/LEN/c-logger/build",
+  "command": "/usr/bin/g++ -DSPDLOG_COMPILED_LIB -DSPDLOG_FMT_EXTERNAL -isystem /opt/vcpkg/installed/x64-linux/include -g -std=gnu++11 -o CMakeFiles/c-logger.dir/src/app.cpp.o -c /home/angga/Documents/LEN/c-logger/src/app.cpp",
+  "file": "/home/angga/Documents/LEN/c-logger/src/app.cpp"
+}
+]

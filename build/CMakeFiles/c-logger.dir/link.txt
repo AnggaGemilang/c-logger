@@ -1,0 +1,1 @@
+/usr/bin/g++ -g CMakeFiles/c-logger.dir/src/app.cpp.o CMakeFiles/shared-objects.dir/src/services/example.cpp.o CMakeFiles/shared-objects.dir/src/utils/logger.cpp.o -o c-logger   -L/opt/vcpkg/installed/x64-linux/lib  -Wl,-rpath,/opt/vcpkg/installed/x64-linux/lib /opt/vcpkg/installed/x64-linux/debug/lib/libspdlogd.a /opt/vcpkg/installed/x64-linux/debug/lib/libfmtd.a 
