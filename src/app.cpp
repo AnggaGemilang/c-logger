@@ -37,12 +37,6 @@ void loggerSetUp(){
 
 int main(int argc, char** argv) {
 
-    // Dijadiin objek
-    Logger logger;
-
-    // Dijadiin method
-    // loggerSetUp();
-
     // Tes dari file
     ExampleService exampleService;
     exampleService.exampleMethod();
